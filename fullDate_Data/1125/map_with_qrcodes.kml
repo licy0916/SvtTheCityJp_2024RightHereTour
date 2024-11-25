@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>files/400628-start-Hisaya Central Vision.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Hisaya Central Vision</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; Hisaya Central Vision&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.170559000000004, &lt;b&gt;Lon:&lt;/b&gt; 136.908967&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 400628&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 愛知県名古屋市中区錦３丁目１６ー１０&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/400628-start-Hisaya Central Vision.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>136.908967,35.170559000000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
