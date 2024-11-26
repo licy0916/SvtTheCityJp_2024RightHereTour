@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="37">
+        <Style id="40">
+            <IconStyle id="41">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42">
+                    <href>files/403415-start-マリオンクレープ 原宿竹下通り店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45">
+            <IconStyle id="46">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47">
+                    <href>files/403844-start-Panel Capsule Machine [AICHI].jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="39">
+            <name>マリオンクレープ 原宿竹下通り店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; マリオンクレープ 原宿竹下通り店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.671263414671394, &lt;b&gt;Lon:&lt;/b&gt; 139.704900102738&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403415&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 東京都渋谷区神宮前1-6-15　ジュネスビル1F&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403415-start-マリオンクレープ 原宿竹下通り店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#40</styleUrl>
+            <Point id="38">
+                <coordinates>139.704900102738,35.671263414671394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44">
+            <name>Panel Capsule Machine [AICHI]</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; Panel Capsule Machine [AICHI]&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.179396562182305, &lt;b&gt;Lon:&lt;/b&gt; 136.87968689524098&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403844&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 愛知県名古屋市西区則武新町３丁目１−１７&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403844-start-Panel Capsule Machine [AICHI].jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#45</styleUrl>
+            <Point id="43">
+                <coordinates>136.87968689524098,35.179396562182305,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
