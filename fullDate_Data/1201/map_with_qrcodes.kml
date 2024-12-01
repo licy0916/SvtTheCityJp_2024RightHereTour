@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>files/400624-start-豊田合成リンク受付テント付近.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>files/403843-start-キッチンカー [AICHI].jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>豊田合成リンク受付テント付近</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 豊田合成リンク受付テント付近&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.1712581627196, &lt;b&gt;Lon:&lt;/b&gt; 136.910150524378&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 400624&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 愛知県名古屋市東区東桜１丁目１１−１&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/400624-start-豊田合成リンク受付テント付近.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>136.910150524378,35.1712581627196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>キッチンカー [AICHI]</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; キッチンカー [AICHI]&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.171676651079004, &lt;b&gt;Lon:&lt;/b&gt; 136.90951825578898&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403843&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; nan&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403843-start-キッチンカー [AICHI].jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>136.90951825578898,35.171676651079004,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
