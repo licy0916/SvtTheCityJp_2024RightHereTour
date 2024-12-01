@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>files/401340-start-阪急三番街 北館B1Fニトリ デコホーム前.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>files/401341-start-Hidden Bonbony（位於 Herbis Plaza）.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>files/401343-start-ディアモール大阪 ファッショナブルストリートの中央.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>files/401345-start-グランフロント大阪北館6F ウメキタフロア ギャラリースペース.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>files/401346-start-グランフロント大阪北館5F HMV.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>files/401347-start-NU茶屋町 6F 『TOWER RECORDS』店内.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>files/401348-start-NU茶屋町プラス2F 『WOCCA ROCCA』前.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>files/403904-start-鳥貴族 道頓堀店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>files/403905-start-鳥貴族 お初天神店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>files/403906-start-鳥貴族 南船場店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>files/403907-start-鳥貴族 堺筋本町店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>files/403908-start-鳥貴族 北浜店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>files/403909-start-鳥貴族 新大阪店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>files/403913-start-鳥貴族 梅田DDハウス店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>files/403914-start-鳥貴族 心斎橋店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>files/403916-start-鳥貴族 心斎橋ヨーロッパ通り店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>files/403918-start-鳥貴族 本町店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>files/404062-start-ハービスPLAZA ENT5F エレベーター前.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>阪急三番街 北館B1Fニトリ デコホーム前</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 阪急三番街 北館B1Fニトリ デコホーム前&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7045011, &lt;b&gt;Lon:&lt;/b&gt; 135.498944&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401340&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区芝田１丁目１−１３&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401340-start-阪急三番街 北館B1Fニトリ デコホーム前.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>135.498944,34.7045011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>Hidden Bonbony（位於 Herbis Plaza）</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; Hidden Bonbony（位於 Herbis Plaza）&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.6984253, &lt;b&gt;Lon:&lt;/b&gt; 135.492676&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401341&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; ハービスPLAZAのどこか&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401341-start-Hidden Bonbony（位於 Herbis Plaza）.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>135.492676,34.6984253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>ディアモール大阪 ファッショナブルストリートの中央</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; ディアモール大阪 ファッショナブルストリートの中央&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.700833200000005, &lt;b&gt;Lon:&lt;/b&gt; 135.497142&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401343&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪市北区梅田一丁目　大阪駅前ダイヤモンド地下街1号&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401343-start-ディアモール大阪 ファッショナブルストリートの中央.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>135.497142,34.700833200000005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>グランフロント大阪北館6F ウメキタフロア ギャラリースペース</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; グランフロント大阪北館6F ウメキタフロア ギャラリースペース&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7059375, &lt;b&gt;Lon:&lt;/b&gt; 135.494444&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401345&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区大深町３番1号　グランフロント大阪　北館&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401345-start-グランフロント大阪北館6F ウメキタフロア ギャラリースペース.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>135.494444,34.7059375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>グランフロント大阪北館5F HMV</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; グランフロント大阪北館5F HMV&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7059375, &lt;b&gt;Lon:&lt;/b&gt; 135.494444&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401346&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区大深町３番1号　グランフロント大阪　北館&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401346-start-グランフロント大阪北館5F HMV.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>135.494444,34.7059375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>NU茶屋町 6F 『TOWER RECORDS』店内</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; NU茶屋町 6F 『TOWER RECORDS』店内&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.707015500000004, &lt;b&gt;Lon:&lt;/b&gt; 135.499048&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401347&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区茶屋町１０−１２&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401347-start-NU茶屋町 6F 『TOWER RECORDS』店内.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>135.499048,34.707015500000004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>NU茶屋町プラス2F 『WOCCA ROCCA』前</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; NU茶屋町プラス2F 『WOCCA ROCCA』前&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7072865, &lt;b&gt;Lon:&lt;/b&gt; 135.499637&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401348&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区茶屋町８−２６&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401348-start-NU茶屋町プラス2F 『WOCCA ROCCA』前.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>135.499637,34.7072865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>鳥貴族 道頓堀店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 道頓堀店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.6688551, &lt;b&gt;Lon:&lt;/b&gt; 135.501725&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403904&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市中央区道頓堀1-6-15 ﾄﾞｳﾄﾝﾋﾞﾙ3階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403904-start-鳥貴族 道頓堀店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>135.501725,34.6688551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>鳥貴族 お初天神店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 お初天神店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.6994875, &lt;b&gt;Lon:&lt;/b&gt; 135.500819&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403905&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区曽根崎2-5-20 お初天神ﾋﾞﾙ地下1階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403905-start-鳥貴族 お初天神店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>135.500819,34.6994875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>鳥貴族 南船場店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 南船場店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.675712, &lt;b&gt;Lon:&lt;/b&gt; 135.501253&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403906&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市中央区南船場3-12-3 心斎橋ｾﾝﾄﾋﾞﾙ4階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403906-start-鳥貴族 南船場店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>135.501253,34.675712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>鳥貴族 堺筋本町店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 堺筋本町店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.682342799999994, &lt;b&gt;Lon:&lt;/b&gt; 135.505213&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403907&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市中央区南本町2-3-8 KDX南本町ﾋﾞﾙ地下1階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403907-start-鳥貴族 堺筋本町店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>135.505213,34.682342799999994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>鳥貴族 北浜店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 北浜店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.68918060000001, &lt;b&gt;Lon:&lt;/b&gt; 135.506095&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403908&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市中央区伏見町2-1-1 三井住友銀行高麗橋ﾋﾞﾙ地下1階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403908-start-鳥貴族 北浜店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>135.506095,34.68918060000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>鳥貴族 新大阪店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 新大阪店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.732769899999994, &lt;b&gt;Lon:&lt;/b&gt; 135.494925&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403909&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市淀川区宮原三丁目3番16号 ｱｸﾛｽｷｭｰﾌﾞ新大阪2階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403909-start-鳥貴族 新大阪店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>135.494925,34.732769899999994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>鳥貴族 梅田DDハウス店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 梅田DDハウス店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7068777, &lt;b&gt;Lon:&lt;/b&gt; 135.49746499999998&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403913&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区芝田一丁目8番1号 北野阪急ﾋﾞﾙ(D.D.HOUSE)2階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403913-start-鳥貴族 梅田DDハウス店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>135.49746499999998,34.7068777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>鳥貴族 心斎橋店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 心斎橋店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.6734452, &lt;b&gt;Lon:&lt;/b&gt; 135.501951&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403914&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市中央区心斎橋筋1丁目4番29号 ﾌｪﾘﾁﾀ心斎橋4階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403914-start-鳥貴族 心斎橋店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>135.501951,34.6734452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>鳥貴族 心斎橋ヨーロッパ通り店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 心斎橋ヨーロッパ通り店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.672424799999995, &lt;b&gt;Lon:&lt;/b&gt; 135.501036&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403916&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市中央区東心斎橋2丁目8-26 FUKUBLD.心斎橋4階A号&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403916-start-鳥貴族 心斎橋ヨーロッパ通り店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>135.501036,34.672424799999995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>鳥貴族 本町店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 本町店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.6849333, &lt;b&gt;Lon:&lt;/b&gt; 135.50247199999998&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403918&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市中央区備後町3-3-15 ﾆｭｰ備後町ﾋﾞﾙ 地下1階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403918-start-鳥貴族 本町店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>135.50247199999998,34.6849333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>ハービスPLAZA ENT5F エレベーター前</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; ハービスPLAZA ENT5F エレベーター前&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.6984414, &lt;b&gt;Lon:&lt;/b&gt; 135.492641&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404062&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区梅田2丁目5－25&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404062-start-ハービスPLAZA ENT5F エレベーター前.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>135.492641,34.6984414,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
