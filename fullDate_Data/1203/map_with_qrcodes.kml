@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>files/403314-start-東京ドーム.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>files/403317-start-かくれボンボンイ(麻布十番商店街内).jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>files/403863-start-東京ドームシティ アトラクションズ.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>files/403865-start-麻布十番商店街1.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>files/403868-start-Panel Capsule Machine [TOKYO].jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>files/404173-start-麻布十番商店街②.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>東京ドーム</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 東京ドーム&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.7057681233824, &lt;b&gt;Lon:&lt;/b&gt; 139.75274623021002&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403314&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 東京都文京区後楽１丁目３−６１&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403314-start-東京ドーム.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>139.75274623021002,35.7057681233824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>かくれボンボンイ(麻布十番商店街内)</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; かくれボンボンイ(麻布十番商店街内)&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.6585093760148, &lt;b&gt;Lon:&lt;/b&gt; 139.732247662044&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403317&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 麻布十番商店街のどこか&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403317-start-かくれボンボンイ(麻布十番商店街内).jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>139.732247662044,35.6585093760148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>東京ドームシティ アトラクションズ</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 東京ドームシティ アトラクションズ&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.7044161221081, &lt;b&gt;Lon:&lt;/b&gt; 139.754213029228&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403863&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 東京都文京区後楽１丁目３−６１&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403863-start-東京ドームシティ アトラクションズ.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>139.754213029228,35.7044161221081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>麻布十番商店街1</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 麻布十番商店街1&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.655376025958795, &lt;b&gt;Lon:&lt;/b&gt; 139.736828881516&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403865&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 麻布17番商店街（麻布十番商店街）&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403865-start-麻布十番商店街1.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>139.736828881516,35.655376025958795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Panel Capsule Machine [TOKYO]</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; Panel Capsule Machine [TOKYO]&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.7288798896899, &lt;b&gt;Lon:&lt;/b&gt; 139.719359168204&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403868&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 東京都豊島区東池袋３丁目１&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403868-start-Panel Capsule Machine [TOKYO].jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>139.719359168204,35.7288798896899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>麻布十番商店街②</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 麻布十番商店街②&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.6551827705549, &lt;b&gt;Lon:&lt;/b&gt; 139.735128503348&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404173&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 麻布17番商店街（麻布十番商店街）&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404173-start-麻布十番商店街②.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>139.735128503348,35.6551827705549,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
