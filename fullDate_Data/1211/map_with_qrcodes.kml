@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18">
+        <Style id="21">
+            <IconStyle id="22">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="23">
+                    <href>files/403313-start-京セラドーム大阪.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="26">
+            <IconStyle id="27">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28">
+                    <href>files/403901-start-キッチンカー [OSAKA].jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31">
+            <IconStyle id="32">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33">
+                    <href>files/403903-start-Panel Capsule Machine [OSAKA].jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="20">
+            <name>京セラドーム大阪</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 京セラドーム大阪&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.6692049128641, &lt;b&gt;Lon:&lt;/b&gt; 135.47572375992&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403313&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市西区千代崎３丁目中２−１&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403313-start-京セラドーム大阪.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#21</styleUrl>
+            <Point id="19">
+                <coordinates>135.47572375992,34.6692049128641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>キッチンカー [OSAKA]</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; キッチンカー [OSAKA]&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7048954137201, &lt;b&gt;Lon:&lt;/b&gt; 135.499622925226&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403901&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪市北区茶屋町8-26&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403901-start-キッチンカー [OSAKA].jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#26</styleUrl>
+            <Point id="24">
+                <coordinates>135.499622925226,34.7048954137201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="30">
+            <name>Panel Capsule Machine [OSAKA]</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; Panel Capsule Machine [OSAKA]&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7040736323848, &lt;b&gt;Lon:&lt;/b&gt; 135.500451582896&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403903&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪府大阪市北区角田町5-15&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403903-start-Panel Capsule Machine [OSAKA].jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#31</styleUrl>
+            <Point id="29">
+                <coordinates>135.500451582896,34.7040736323848,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

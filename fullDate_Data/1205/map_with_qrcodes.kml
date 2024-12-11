@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>files/403866-start-キッチンカー [TOKYO].jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>files/403869-start-ライブビューイング TOHOシネマズ池袋.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>files/403871-start-ライブビューイング グランドシネマサンシャイン池袋.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>キッチンカー [TOKYO]</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; キッチンカー [TOKYO]&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.7287483321346, &lt;b&gt;Lon:&lt;/b&gt; 139.71879115742&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403866&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 東京都豊島区東池袋３丁目１&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403866-start-キッチンカー [TOKYO].jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>139.71879115742,35.7287483321346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>ライブビューイング TOHOシネマズ池袋</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; ライブビューイング TOHOシネマズ池袋&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.732420190912, &lt;b&gt;Lon:&lt;/b&gt; 139.715506054208&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403869&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 東京都豊島区東池袋1-18-1 HarezaTower内&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403869-start-ライブビューイング TOHOシネマズ池袋.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>139.715506054208,35.732420190912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>ライブビューイング グランドシネマサンシャイン池袋</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; ライブビューイング グランドシネマサンシャイン池袋&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 35.7309765725769, &lt;b&gt;Lon:&lt;/b&gt; 139.716414454208&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 403871&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 東京都豊島区東池袋一丁目30番3号&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/403871-start-ライブビューイング グランドシネマサンシャイン池袋.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>139.716414454208,35.7309765725769,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
