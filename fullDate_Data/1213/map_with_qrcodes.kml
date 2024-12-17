@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>files/404175-start-現場觀看 TOHO Cinemas 梅田分館.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>files/404174-start-現場觀看 TOHO Cinemas 梅田本館.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>現場觀看 TOHO Cinemas 梅田分館</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 現場觀看 TOHO Cinemas 梅田分館&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7038817943715, &lt;b&gt;Lon:&lt;/b&gt; 135.500713614058&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404175&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪市大阪市北區角田町梅田樂天地大廈 5-1&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404175-start-現場觀看 TOHO Cinemas 梅田分館.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>135.500713614058,34.7038817943715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>現場觀看 TOHO Cinemas 梅田本館</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 現場觀看 TOHO Cinemas 梅田本館&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 34.7032967660052, &lt;b&gt;Lon:&lt;/b&gt; 135.499828667396&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404174&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 大阪市， 北區， 角田町， 7-10 HEP Navio&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404174-start-現場觀看 TOHO Cinemas 梅田本館.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>135.499828667396,34.7032967660052,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

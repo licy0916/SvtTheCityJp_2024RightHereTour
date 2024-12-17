@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>files/404168-start-BOSS E・ZO FUKUOKA.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>files/404150-start-鳥貴族 ウエストコート姪浜店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>files/404149-start-鳥貴族 天神親不孝通り店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>files/404169-start-かくれボンボンイ（ソラリアステージ内）.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>files/401357-start-ソラリアステージ6F ホワイエ.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>files/401356-start-ソラリアプラザ1F ゼファ.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>files/401351-start-西鉄天神高速バスターミナル 0番乗り場.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>files/404151-start-鳥貴族 博多筑紫口店.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>files/404199-start-レイリア大橋１F北 リペアランド前.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>files/404058-start-かくれボンボンイ（レイリア大橋内）.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>files/404171-start-北九州空港2階スターフライヤーカウンター前.jpg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>BOSS E・ZO FUKUOKA</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; BOSS E・ZO FUKUOKA&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.5953054129715, &lt;b&gt;Lon:&lt;/b&gt; 130.363753256986&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404168&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡県福岡市中央区地行浜２丁目２−６&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404168-start-BOSS E・ZO FUKUOKA.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>130.363753256986,33.5953054129715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>鳥貴族 ウエストコート姪浜店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 ウエストコート姪浜店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.5819131130698, &lt;b&gt;Lon:&lt;/b&gt; 130.322702502607&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404150&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡県福岡市西区内浜一丁目7番3号 ﾚｼﾞｬｰﾋﾞﾙ1階-E1&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404150-start-鳥貴族 ウエストコート姪浜店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>130.322702502607,33.5819131130698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>鳥貴族 天神親不孝通り店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 天神親不孝通り店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.5910892399133, &lt;b&gt;Lon:&lt;/b&gt; 130.39319294310698&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404149&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡県福岡市中央区舞鶴1丁目1番3号 ﾘｸﾙｰﾄ天神ﾋﾞﾙ2階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404149-start-鳥貴族 天神親不孝通り店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>130.39319294310698,33.5910892399133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>かくれボンボンイ（ソラリアステージ内）</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; かくれボンボンイ（ソラリアステージ内）&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.590484359844304, &lt;b&gt;Lon:&lt;/b&gt; 130.398887781429&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404169&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; かくれボンボンイ（ソラリアステージ内）&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404169-start-かくれボンボンイ（ソラリアステージ内）.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>130.398887781429,33.590484359844304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>ソラリアステージ6F ホワイエ</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; ソラリアステージ6F ホワイエ&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.5899115388113, &lt;b&gt;Lon:&lt;/b&gt; 130.39895771991698&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401357&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡県福岡市中央区天神2丁目11番3号&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401357-start-ソラリアステージ6F ホワイエ.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>130.39895771991698,33.5899115388113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>ソラリアプラザ1F ゼファ</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; ソラリアプラザ1F ゼファ&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.589073813904, &lt;b&gt;Lon:&lt;/b&gt; 130.398918280602&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401356&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡市中央区天神2丁目2-43&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401356-start-ソラリアプラザ1F ゼファ.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>130.398918280602,33.589073813904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>西鉄天神高速バスターミナル 0番乗り場</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 西鉄天神高速バスターミナル 0番乗り場&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.5886597732132, &lt;b&gt;Lon:&lt;/b&gt; 130.3999492639&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 401351&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡県福岡市中央区天神２丁目１－１&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/401351-start-西鉄天神高速バスターミナル 0番乗り場.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>130.3999492639,33.5886597732132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>鳥貴族 博多筑紫口店</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 鳥貴族 博多筑紫口店&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.5891574341427, &lt;b&gt;Lon:&lt;/b&gt; 130.422708966142&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404151&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡県福岡市博多区博多駅東2丁目1-24 ｷﾞｬﾗﾘｰﾊｶﾀ地下1階&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404151-start-鳥貴族 博多筑紫口店.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>130.422708966142,33.5891574341427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>レイリア大橋１F北 リペアランド前</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; レイリア大橋１F北 リペアランド前&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.5593268089783, &lt;b&gt;Lon:&lt;/b&gt; 130.426226735358&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404199&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡県福岡市南区大橋1丁目5番1号&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404199-start-レイリア大橋１F北 リペアランド前.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>130.426226735358,33.5593268089783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>かくれボンボンイ（レイリア大橋内）</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; かくれボンボンイ（レイリア大橋内）&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.5591196547503, &lt;b&gt;Lon:&lt;/b&gt; 130.426631069422&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404058&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; レイリア大橋のどこか&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404058-start-かくれボンボンイ（レイリア大橋内）.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>130.426631069422,33.5591196547503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>北九州空港2階スターフライヤーカウンター前</name>
+            <description>&lt;b&gt;Title:&lt;/b&gt; 北九州空港2階スターフライヤーカウンター前&lt;br&gt;&lt;b&gt;Lat:&lt;/b&gt; 33.8357701733258, &lt;b&gt;Lon:&lt;/b&gt; 131.03208948291402&lt;br&gt;&lt;b&gt;SpotCode:&lt;/b&gt; 404171&lt;br&gt;&lt;b&gt;Address:&lt;/b&gt; 福岡県北九州市小倉南区空港北町６&lt;br&gt;&lt;b&gt;QR Code:&lt;/b&gt;&lt;br&gt;&lt;img src='files/404171-start-北九州空港2階スターフライヤーカウンター前.jpg' width='256' height='256'&gt;</description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>131.03208948291402,33.8357701733258,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
